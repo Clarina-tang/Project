@@ -7,3 +7,7 @@ Five linked visualisations in three stages (Monitor & Locate, Diagnose & Priorit
 3. Delivery promise vs reality (diverging bars)
 4. Market > region > department treemap (drill-down)
 5. Profit by discount band, late vs not late (grouped bars with 95% CIs)
+## How to run
+1. Get the dataset (`data.csv`, DataCo supply-chain data supplied by the course; not included here because of its size).
+2. Create a folder named `data` next to `app.R` and put `data.csv` inside it.
+3. Open `app.R` in RStudio and click **Run App**. Missing packages (shiny, bslib, plotly, data.table, lubridate, scales) install automatically.
