@@ -11,3 +11,5 @@ Five linked visualisations in three stages (Monitor & Locate, Diagnose & Priorit
 1. Get the dataset (`data.csv`, DataCo supply-chain data supplied by the course; not included here because of its size).
 2. Create a folder named `data` next to `app.R` and put `data.csv` inside it.
 3. Open `app.R` in RStudio and click **Run App**. Missing packages (shiny, bslib, plotly, data.table, lubridate, scales) install automatically.
+## Tools
+R, Shiny, bslib, plotly, data.table
